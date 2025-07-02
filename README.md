@@ -1,4 +1,4 @@
-#clinica de saude🚀
+# Clinica de saúde🚀
 
 O sistema calculará
 automaticamente o IMC de cada paciente com base nos dados fornecidos.
