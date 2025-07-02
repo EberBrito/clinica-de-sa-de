@@ -4,7 +4,6 @@ O sistema calculará
 automaticamente o IMC de cada paciente com base nos dados fornecidos.
 Além disso, será possível consultar, editar ou excluir os registros dos
 pacientes.
-![image](https://github.com/user-attachments/assets/d31c566d-9348-4857-84f1-93b211b3d965)
 
 
 # 🔌Como fazer funcionar na sua máquina:
